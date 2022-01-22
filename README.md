@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Emily Crawford and I am a junior in Information Sciences at the University of Illinois. Here you will find a collection of projects I have completed over the past year or so. 
 
 <!--
 **emilycraw4d/emilycraw4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

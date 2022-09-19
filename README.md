@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Emily Crawford and I am a junior in Information Sciences at the University of Illinois. Here you will find a collection of projects I have completed over the past year or so. Find the snow visualization I helped work on [here](https://vis.cs.illinois.edu/weather/historic-snowfall-and-snow-depth/). 
+My name is Emily Crawford and I am a senior in Information Sciences at the University of Illinois. Here you will find a collection of projects I have completed over the past year or so. Find the snow visualization I helped work on [here](https://vis.cs.illinois.edu/weather/historic-snowfall-and-snow-depth/). 
 
 <!--
 **emilycraw4d/emilycraw4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
